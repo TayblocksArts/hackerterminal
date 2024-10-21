@@ -1,0 +1,18 @@
+{
+  "name": "hackerterminal",
+  "version": "1.0.0",
+  "description": "Entwickelt von Taylan Nagel fuer Schülerfirma Puls!",
+  "main": "main.js",
+  "author": "Taylan Nagel",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron-packager": "^17.1.2"
+  },
+  "dependencies": {
+    "electron": "^33.0.1"
+  }
+}
